@@ -1,4 +1,4 @@
-# vue-monster-slayer
+# Monster Slayer Game
 
 ## Project setup
 ```
